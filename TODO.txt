@@ -1,0 +1,1 @@
+-Ajustar a quebra de linhas que faz com que a primeira barra divisoria se mova quando entra em qualquer artigo
