@@ -10,10 +10,8 @@ Este site foi criado para compartilhar dicas e orientações sobre ciberseguran�
 - Privacidade
 - Segurança em dispositivos móveis
 
-## Artigos recentes
+## Artigos
 
 {% for post in site.posts %}
-4
 - [{{ posturl }}
-5
 {% endfor %}
