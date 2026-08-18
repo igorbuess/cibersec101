@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Bem-vindo ao Cibersegurança 101
 
 Este site foi criado para compartilhar dicas e orientações sobre cibersegurança de forma simples e acessível.
@@ -13,5 +17,4 @@ Este site foi criado para compartilhar dicas e orientações sobre ciberseguran�
 ## Artigos
 
 {% for post in site.posts %}
-* [{{post.url }}
-{% endfor %}
+* [{{ post.title }} endfor %}
