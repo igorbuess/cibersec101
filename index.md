@@ -13,5 +13,5 @@ Este site foi criado para compartilhar dicas e orientações sobre ciberseguran�
 ## Artigos
 
 {% for post in site.posts %}
-- [{{ posturl }}
+* [{{post.url }}
 {% endfor %}
