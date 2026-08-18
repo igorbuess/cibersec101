@@ -16,5 +16,10 @@ Este site foi criado para compartilhar dicas e orientações sobre ciberseguran�
 
 ## Artigos
 
-{% for post in site.posts %}
-* [{{ post.title }} endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
