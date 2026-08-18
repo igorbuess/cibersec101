@@ -2,17 +2,13 @@
 layout: default
 ---
 
-# Bem-vindo ao Cibersegurança 101
+# Cibersegurança 101
 
-Este site foi criado para compartilhar dicas e orientações sobre cibersegurança de forma simples e acessível.
+Sou Igor Buess, graduado em Engenharia da Computação e pós-graduado em Segurança da Informação e Inteligência Artificial Aplicada. Atuo na área de Cibersegurança, contribuindo para o fortalecimento da segurança da informação em organizações de diversos segmentos.
 
-## Temas
+Esta página foi criada para disseminar conhecimentos e boas práticas de segurança digital por meio de uma linguagem clara e acessível, auxiliando pessoas a reduzirem riscos e a utilizarem a tecnologia de forma mais segura.
 
-- Senhas seguras
-- Phishing
-- Golpes online
-- Privacidade
-- Segurança em dispositivos móveis
+O conteúdo é direcionado principalmente a usuários com conhecimentos básicos ou intermediários em tecnologia, que podem se beneficiar de orientações práticas para o dia a dia digital.
 
 ## Artigos
 
